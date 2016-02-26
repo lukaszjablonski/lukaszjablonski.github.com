@@ -8,7 +8,7 @@ jQuery.fn.loadRepositories = function(username) {
  
   var target = this; 
   $.githubUser(username, function(data) {
-    var repos = data.user.repositories;
+    var repos = data.repositories;
     sortByNumberOfWatchers(repos);
  
     var list = $('<dl/>');
