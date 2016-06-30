@@ -16,6 +16,8 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
+    
+dd {margin:0;}
 
 .btn {
   display: inline-block;
