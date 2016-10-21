@@ -22,7 +22,10 @@ a {
 dt {margin-top:2em;}
 dd {margin:0;}
 
-.inner {width:1000px;}
+.inner {
+ width:1000px;
+ margin: 0 autpo;
+}
 
 .btn {
   display: inline-block;
