@@ -2,4 +2,5 @@
 My GitHub Personal Site at [lukaszjablonski.github.io](http://lukaszjablonski.github.io/)
 
 **Help**
-Read more about [GitHub Pages](https://pages.github.com/) or [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/).
+
+Read about [GitHub Pages](https://pages.github.com/) or [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/).
